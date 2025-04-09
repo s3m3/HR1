@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="80" viewBox="0 0 400 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; font-weight: 900; }
+        .orange { fill: #FF6B00; }
+        .white { fill: #FFFFFF; }
+    </style>
+    <text x="50%" y="60%" text-anchor="middle" class="title" font-size="50">
+        <tspan class="orange">Tiger</tspan><tspan class="white">Town</tspan>
+    </text>
+</svg> 
